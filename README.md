@@ -19,7 +19,7 @@ The main objectives of this project were to:
 * Examine average length of stay and daily discharge rates.
 * Build an interactive Power BI dashboard to present key findings.
 
-##Data Cleaning and Preparation (SQL)
+## Data Cleaning and Preparation (SQL)
 
 One of the main challenges in this project was the inconsistency in the admission and discharge dates. Some dates appeared to follow the MM/DD/YYYY format, while others followed DD/MM/YYYY, making it difficult to determine the correct dates with confidence.
 
@@ -32,7 +32,7 @@ To address this, I:
 
 This stage highlighted the importance of data quality, validation, and careful handling of date fields before drawing conclusions from a dataset.
 
-##Dashboard Overview (Power BI)
+## Dashboard Overview (Power BI)
 
 The cleaned data was used to develop an interactive healthcare dashboard featuring three key performance indicators:
 
@@ -46,7 +46,7 @@ The cleaned data was used to develop an interactive healthcare dashboard featuri
 <img width="1666" height="934" alt="Image 01-10-2026 at 11 13" src="https://github.com/user-attachments/assets/66f4de42-1c68-4a07-a2ca-c264b431230d" />
 
 
-##Key Insights
+## Key Insights
 
 * Discharge volume: The dataset recorded 12,488 total discharges.
 * Age distribution: Seniors accounted for the highest number of discharges (7,370), followed by older adults (4,597).
@@ -56,9 +56,9 @@ The cleaned data was used to develop an interactive healthcare dashboard featuri
 
 These findings provide a basis for further investigation into patient flow, length of stay, and demographic patterns within the dataset.
 
-##Tools and Skills Demonstrated
+## Tools and Skills Demonstrated
 
-SQL
+### SQL
 
 * Data cleaning and preparation
 * Duplicate record removal
@@ -66,21 +66,21 @@ SQL
 * Date calculations and cross-checking
 * Data quality management
 
-Power BI
+### Power BI
 
 * KPI development
 * Data visualization
 * Interactive dashboard design
 * Filtering and comparative analysis
 
-Analytical Skills
+### Analytical Skills
 
 * Data validation
 * Problem-solving
 * Trend analysis
 * Healthcare data interpretation
 
-##Conclusion
+## Conclusion
 
 This project demonstrates the work involved in taking a dataset from its raw state to an interactive analytical dashboard. The SQL stage required investigating inconsistent dates, validating records, and removing duplicates before the data could be used confidently for analysis.
 
